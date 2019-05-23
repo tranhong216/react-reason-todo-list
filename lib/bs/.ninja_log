@@ -1,0 +1,19 @@
+# ninja log v5
+0	15	1558505017	src/Index.mlast	689e1861c4dd11bc
+0	54	1558570270	src/TodoApp-ReactHooksTemplate.cmj	7be0acefbecd4e9f
+62	92	1558451788	/home/pinki/workspace/my-react-app/src/Index.bs.js	7a668acdeb1470d3
+0	80	1558505017	src/Index-ReactHooksTemplate.cmi	fd95b3fe136cfe00
+0	54	1558570270	/home/nguyen.van.sang/Downloads/my-react-app/src/TodoApp.bs.js	7be0acefbecd4e9f
+15	44	1558505017	src/Index.mlast.d	8ea1e9c7beb740bb
+0	80	1558505017	src/Index-ReactHooksTemplate.cmj	fd95b3fe136cfe00
+0	9	1558494047	ReactHooksTemplate.cmi	efc64b9ef4dab1ca
+0	80	1558505017	/home/nguyen.van.sang/Downloads/my-react-app/src/Index.bs.js	fd95b3fe136cfe00
+0	62	1558451788	/home/pinki/workspace/my-react-app/src/TodoApp.bs.js	34e7f0013bd19efc
+0	54	1558570270	src/TodoApp-ReactHooksTemplate.cmi	7be0acefbecd4e9f
+40	43	1558570270	src/TodoApp.mlast.d	62ab287cfdcea631
+0	40	1558570270	src/TodoApp.mlast	e1b9502f65f138d9
+0	14	1558571062	src/TodoApp.mlast	e1b9502f65f138d9
+15	17	1558571062	src/TodoApp.mlast.d	62ab287cfdcea631
+0	42	1558571062	src/TodoApp-ReactHooksTemplate.cmj	7be0acefbecd4e9f
+0	42	1558571062	/home/nguyen.van.sang/Downloads/my-react-app/src/TodoApp.bs.js	7be0acefbecd4e9f
+0	42	1558571062	src/TodoApp-ReactHooksTemplate.cmi	7be0acefbecd4e9f
